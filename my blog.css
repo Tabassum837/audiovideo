@@ -1,0 +1,15 @@
+nav >ul >li {
+    display: inline;
+    margin-right: 20px;
+   
+}
+nav >ul >li >a {
+    text-decoration: none;
+}
+footer{
+    margin: to;
+    text-align: 30px;
+}
+main >article >time{
+    margin-bottom:100px;
+}
