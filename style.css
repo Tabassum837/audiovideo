@@ -1,0 +1,20 @@
+
+table{
+   border-collapse:collapse ;  
+}
+td{
+    border: 1px solid black;
+    padding: 5px 10px;
+    
+}
+nav > ul >li{
+    display: inline;
+    margin-right: 5px;
+
+}
+nav  li > a{
+    text-decoration: none;
+}
+nav li:hover{
+    background-color:lightgray;
+}
